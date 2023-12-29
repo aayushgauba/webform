@@ -1,4 +1,4 @@
-```markdown
+
 # Django Project with PostgreSQL Database
 
 This repository contains a Django project integrated with a PostgreSQL database. The Django framework provides a robust foundation for web applications, while PostgreSQL ensures efficient and scalable data storage.
